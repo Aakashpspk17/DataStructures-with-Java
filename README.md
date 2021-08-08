@@ -1,6 +1,7 @@
-# DATA STRUCTURES WITH JAVA 
+# Data Structures with Java 
 
-## WHAT IS DATA STRUCTURE
+## Data Structure
+
 ### Data Structure is a way to organized data in such a way that it can be used efficiently. Following terms are basic terms of a data structure.
 
 # Data Definition

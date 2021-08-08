@@ -47,3 +47,14 @@ Those data types which are implementation independent as they can be implemented
 * Stack
 
 * Queue
+
+# About the Repository:
+
+This repository contains all the Data structures implementation using Java, including some basic set of problems solved.
+
+### problems solved by :
+
+EMANDI AAKASH
+
+### Thank you!!
+
